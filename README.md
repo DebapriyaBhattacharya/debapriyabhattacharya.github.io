@@ -1,2 +1,2 @@
 # iamdeb.github.io
-Professional Website of Debapriya Bhattacharya
+Personal Website of Debapriya Bhattacharya
